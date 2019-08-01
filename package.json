@@ -1,20 +1,24 @@
 {
-	"name": "github-pages-vuepress",
-	"version": "1.1.0",
-	"description": "Static website built with VuePress and deployed on Github Pages",
-	"scripts": {
-		"start": "vuepress dev",
-		"build": "vuepress build"
-	},
-	"repository": "https://github.com/scriptex/github-pages-vuepress",
-	"keywords": [
-		"VuePress",
-		"Gitlab",
-		"Pages"
-	],
-	"author": "Atanas Atanasov <scriptex.bg@gmail.com> (https://atanas.info)",
-	"license": "MIT",
-	"devDependencies": {
-		"vuepress": "1.0.3"
-	}
+  "name": "helpotcreator.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "doc": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helpotcreator/helpotcreator.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/helpotcreator/helpotcreator.github.io/issues"
+  },
+  "homepage": "https://github.com/helpotcreator/helpotcreator.github.io#readme",
+  "devDependencies": {
+    "vuepress": "^1.0.3"
+  }
 }
