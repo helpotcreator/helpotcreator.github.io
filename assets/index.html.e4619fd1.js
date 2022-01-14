@@ -1,0 +1,1 @@
+import{o as e,c as r,a as s,b as t}from"./app.058e2587.js";import{_ as n}from"./plugin-vue_export-helper.21dcd24c.js";const o={},a={id:"trend-messenger",tabindex:"-1"},c=s("a",{class:"header-anchor",href:"#trend-messenger","aria-hidden":"true"},"#",-1),d=t(" Trend > Messenger"),_=[c,d];function i(h,p){return e(),r("h1",a,_)}var l=n(o,[["render",i]]);export{l as default};

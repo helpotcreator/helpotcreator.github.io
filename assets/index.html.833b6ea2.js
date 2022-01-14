@@ -1,0 +1,1 @@
+import{o as e,c as o,a as t,b as c}from"./app.058e2587.js";import{_ as a}from"./plugin-vue_export-helper.21dcd24c.js";const r={},s={id:"etc-tool",tabindex:"-1"},_=t("a",{class:"header-anchor",href:"#etc-tool","aria-hidden":"true"},"#",-1),n=c(" ETC > Tool"),d=[_,n];function i(h,l){return e(),o("h1",s,d)}var m=a(r,[["render",i]]);export{m as default};

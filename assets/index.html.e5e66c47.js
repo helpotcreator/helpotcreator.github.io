@@ -1,0 +1,1 @@
+const t={key:"v-33bb3c70",path:"/etc/convert/",title:"ETC > Convert",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1642168683e3,contributors:[{name:"helpotcreator",email:"helpotcreator@gmail.com",commits:1}]},filePathRelative:"etc/convert/README.md"};export{t as data};

@@ -1,0 +1,1 @@
+const t={key:"v-5b4fee83",path:"/etc/tool/",title:"ETC > Tool",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1642168683e3,contributors:[{name:"helpotcreator",email:"helpotcreator@gmail.com",commits:1}]},filePathRelative:"etc/tool/README.md"};export{t as data};

@@ -1,0 +1,1 @@
+const e={key:"v-0aa5b7b2",path:"/trend/messenger/",title:"Trend > Messenger",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1642168683e3,contributors:[{name:"helpotcreator",email:"helpotcreator@gmail.com",commits:1}]},filePathRelative:"trend/messenger/README.md"};export{e as data};

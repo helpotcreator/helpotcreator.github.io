@@ -1,0 +1,1 @@
+import{o as e,c as t,a as r,b as o}from"./app.058e2587.js";import{_ as a}from"./plugin-vue_export-helper.21dcd24c.js";const s={},c={id:"trend",tabindex:"-1"},n=r("a",{class:"header-anchor",href:"#trend","aria-hidden":"true"},"#",-1),d=o(" Trend"),_=[n,d];function i(h,p){return e(),t("h1",c,_)}var m=a(s,[["render",i]]);export{m as default};

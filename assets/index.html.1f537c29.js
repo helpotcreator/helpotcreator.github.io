@@ -1,0 +1,1 @@
+const e={key:"v-d3f5732a",path:"/trend/",title:"Trend",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1642168683e3,contributors:[{name:"helpotcreator",email:"helpotcreator@gmail.com",commits:1}]},filePathRelative:"trend/README.md"};export{e as data};

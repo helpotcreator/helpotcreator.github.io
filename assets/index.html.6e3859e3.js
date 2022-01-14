@@ -1,0 +1,1 @@
+const e={key:"v-0832121a",path:"/development/ide/vscode/",title:"Development > IDE > VSCode",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1642168683e3,contributors:[{name:"helpotcreator",email:"helpotcreator@gmail.com",commits:1}]},filePathRelative:"development/ide/vscode/README.md"};export{e as data};

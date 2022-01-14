@@ -1,0 +1,1 @@
+const e={key:"v-f777d01c",path:"/jesus/",title:"Jesus",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"\uC18C\uAC1C",slug:"\u1109\u1169\u1100\u1162",children:[]}],git:{updatedTime:1642168683e3,contributors:[{name:"helpotcreator",email:"helpotcreator@gmail.com",commits:1}]},filePathRelative:"jesus/README.md"};export{e as data};

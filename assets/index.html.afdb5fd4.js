@@ -1,0 +1,1 @@
+const e={key:"v-4395e012",path:"/development/ide/",title:"Development > IDE",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1642168683e3,contributors:[{name:"helpotcreator",email:"helpotcreator@gmail.com",commits:1}]},filePathRelative:"development/ide/README.md"};export{e as data};
